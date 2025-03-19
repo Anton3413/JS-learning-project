@@ -9,7 +9,6 @@ public class MainController {
 
     @GetMapping
     public String showMainPage(){
-        System.out.println("fssfbghg");
         return "index";
     }
 }
