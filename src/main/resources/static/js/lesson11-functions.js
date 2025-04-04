@@ -1,6 +1,3 @@
-function sayHi() {
-    console.log( "Привет" );
-}
 
 let sayHi2 = function() {
     console.log( "Привет" );
